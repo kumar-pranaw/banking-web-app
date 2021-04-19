@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AppComponent implements OnInit {
   title = 'banking-web-app';
+  homeComponent = 'I am from app component';
 
   constructor() {
   }
